@@ -1,24 +1,24 @@
-[submodule "src/MASA.Blazor"]
-	path = src/MASA.Blazor
-	url = https://github.com/BlazorComponent/MASA.Blazor
-[submodule "src/MASA.PM"]
-	path = src/MASA.PM
-	url = https://github.com/masastack/MASA.PM
-[submodule "src/MASA.Auth"]
-	path = src/MASA.Auth
-	url = https://github.com/masastack/MASA.Auth
-[submodule "src/MASA.DCC"]
-	path = src/MASA.DCC
-	url = https://github.com/masastack/MASA.DCC
-[submodule "src/MASA.MC"]
-	path = src/MASA.MC
-	url = https://github.com/masastack/MASA.MC
-[submodule "src/MASA.Scheduler"]
-	path = src/MASA.Scheduler
-	url = https://github.com/masastack/MASA.Scheduler
-[submodule "src/MASA.TSC"]
-	path = src/MASA.TSC
-	url = https://github.com/masastack/MASA.TSC
-[submodule "src/MASA.Alert"]
-	path = src/MASA.Alert
-	url = https://github.com/masastack/MASA.Alert
+[submodule "src/Violet.Blazor"]
+	path = src/Violet.Blazor
+	url = https://github.com/Violet-VE/Violet.Blazor.git
+[submodule "src/Violet.PM"]
+	path = src/Violet.PM
+	url = https://github.com/Violet-VE/Violet.PM.git
+[submodule "src/Violet.Auth"]
+	path = src/Violet.Auth
+	url = https://github.com/Violet-VE/Violet.Auth.git
+[submodule "src/Violet.DCC"]
+	path = src/Violet.DCC
+	url = https://github.com/Violet-VE/Violet.DCC.git
+[submodule "src/Violet.MC"]
+	path = src/Violet.MC
+	url = https://github.com/Violet-VE/Violet.MC.git
+[submodule "src/Violet.Scheduler"]
+	path = src/Violet.Scheduler
+	url = https://github.com/Violet-VE/Violet.Scheduler.git
+[submodule "src/Violet.TSC"]
+	path = src/Violet.TSC
+	url = https://github.com/Violet-VE/Violet.TSC.git
+[submodule "src/Violet.Alert"]
+	path = src/Violet.Alert
+	url = https://github.com/Violet-VE/Violet.Alert.git
